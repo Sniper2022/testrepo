@@ -1,5 +1,6 @@
 # testrepo
 test repo
 
-lolo = 125
-print (lolo)
+sep='separator'
+
+print (sep)
