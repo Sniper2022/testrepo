@@ -1,6 +1,3 @@
 # testrepo
-test repo
-
-sep='separator'
-
-print (sep)
+val = input("23: ") 
+print(val)
