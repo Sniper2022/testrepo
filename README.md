@@ -1,3 +1,3 @@
-# testrepo
-val = input("23: ") 
-print(val)
+# ends the output with '@' 
+print("Python" , end = '@')  
+print("GeeksforGeeks")
